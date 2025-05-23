@@ -33,7 +33,7 @@
     # This will show the config details below:
                         Credentialed Accounts
     ACTIVE  ACCOUNT
-    *    jonchen@google.com
+    *    test@test.com
     ```
 
     If not, re-authenticate to gcloud.
@@ -49,7 +49,7 @@
 
     # This will show the config details below:
     [core]
-    account = jonchen@google.com
+    account = test@example.com
     disable_usage_reporting = False
     project = my-project-id
     ```
